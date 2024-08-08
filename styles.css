@@ -1,0 +1,23 @@
+.product-card{
+    background-color: #9999ff;
+    width: 250px;
+    padding: 20px 10px;
+    border-radius: 10px;
+    border: 4px solid #3366cc;
+    margin: 20px;}
+
+    .product-img{
+   width: 200px;
+   height: 250px;
+   display: block;
+   margin: 10px auto;
+   border-radius: 10px; } 
+
+.btn-buy-now{
+  background-color: #eb9dc4;
+  padding: 5px 20px;
+  border-radius: 30px;
+  border: 2px solid #ccccff;
+  display: block;
+  margin: 10px auto ; }
+  
